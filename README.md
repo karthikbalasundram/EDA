@@ -9,3 +9,5 @@ In this notrbook I have extensively analysed the the fields like City,States, We
 The results of the analysis  has been sumarise and actionabel insights has been drawn at the end.
 
 The future scope of this project is also outlined at the end.
+
+Note: Github doesnot support viewing Folim Heatmaps. If you wish to see the Heatmap present in the notebook please post the link of the .ipynb file [here](http://nbviewer.org/).
