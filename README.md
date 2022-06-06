@@ -1,6 +1,6 @@
 # Exploratory Data Analysis of US Accidents Dataset
 
-![alt text]([http://url/to/img.png](https://image.cnbcfm.com/api/v1/image/106848158-1614727105604-crash.jpg?v=1614727122&w=740&h=416&ffmt=webp))
+![alt text](106848158-1614727105604-crash.webp)
 
 This mini project contains an Exploratory data Analysis performed on the US accodents dataset taken from Kaggle. The data is available for the period 2016-2021.
 
